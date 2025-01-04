@@ -1,8 +1,11 @@
 div{
-    background-color: rgba(234, 11, 11, 0.447);
+    background-color: rgba(248, 14, 14, 0.743);
     padding: 10px;
     margin: 10px;
-    border: 2px solid gray;
+    border: 10px solid gray;
     border-radius: 10px;
     box-shadow:20px gold;
+}
+body{
+    background-color: rgb(1, 243, 199);
 }
